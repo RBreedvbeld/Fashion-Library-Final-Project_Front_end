@@ -4,7 +4,7 @@ function FashionFooter() {
 
     return (
         <div>
-            Footer
+           
         </div>
     )
 }
